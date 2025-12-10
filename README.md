@@ -3,6 +3,13 @@
 Formeler SDK is a cloud language detection api SDK, It's design to make get started quick and easy with the ability to
 scale up to complex applications.
 
+## Installation
+
+Within the activated environment, use the following command to install `Formeler` SDK:
+```sh
+pip install formeler
+```
+
 ## An Example
 
 ```python
