@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "formeler"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
     { name = "Formeler", email = "hi@formeler.com" },
 ]
