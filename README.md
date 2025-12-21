@@ -1,3 +1,4 @@
+![Banner](.github/github-banner@2x.png)
 # Formeler SDK
 
 First, please check the documentation (https://formeler.com/lang-id/doc/) page to familiarize yourself with the basics of the API.
